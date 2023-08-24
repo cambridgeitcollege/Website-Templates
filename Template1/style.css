@@ -229,6 +229,7 @@ nav ul li:hover::before{
     transform:translateY(-15px);
 }
 /* Services Section Ends Here  */
+
 /* portfolio Section Starts Here  */
 #portfolio{
     margin: 20px 0;
@@ -254,7 +255,6 @@ nav ul li:hover::before{
 }
 .case:hover .img img{
     transform: scale(1.1);
-
 }
 .case div .info{
     position: absolute;
@@ -308,6 +308,7 @@ nav ul li:hover::before{
     background: #ff004f;
 }
 /* Portfolio Section Ends Here  */
+
 /* Contact Section Start Here  */
 #contact{
     margin: 20px 0;
@@ -370,7 +371,9 @@ nav ul li:hover::before{
     cursor: pointer;
 }
 /* Contact Section Ends Here  */
+
 /* Main Section Ends Here  */
+
 /* Footer Section Starts Here  */
 footer{
     height: 50px;
@@ -385,8 +388,9 @@ footer p a{
     text-decoration: none;
     color: #ff004f;
 }
-/* footer ends here  */
-/* preloader starts here  */
+/* Footer ends here  */
+
+/* Preloader Sections Starts here  */
 .preloader{
     position: sticky;
     top: 0;
@@ -399,8 +403,8 @@ footer p a{
     align-items: center;
 }
 .preloader div{
-    border: 16px solid #f3f3f3; /* Light grey */
-    border-top: 16px solid #3498db; /* Blue */
+    border: 16px solid #f3f3f3; 
+    border-top: 16px solid #3498db; 
     border-radius: 50%;
     width: 120px;
     height: 120px;
@@ -413,6 +417,6 @@ footer p a{
         transform: rotate(360deg);
     }
 }
-/* preloader starts here  */
+/* preloader Section Ends here  */
 
 
