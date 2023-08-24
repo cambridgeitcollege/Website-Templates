@@ -12,6 +12,7 @@ body{
     color: #fff;
     position: relative;
 }
+
 /* Header section Start  */
 header nav{
     min-height: 80px;
@@ -68,6 +69,8 @@ nav ul li:hover::before{
 }
 /* Header section end  */
 
+
+
 /* main section Start  */
 
 /* hero section starts */
@@ -99,6 +102,7 @@ nav ul li:hover::before{
     font-size: 55px;
 }
 /* hero section ends here  */
+
 /* about section start here  */
 #about{
     margin: 10px 0;
