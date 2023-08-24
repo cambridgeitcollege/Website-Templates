@@ -116,7 +116,6 @@ nav ul li:hover::before{
     flex-basis: 25%;
 }
 #about .container .img img{
-    /* min-width: 100%; */
     overflow: hidden;
     border-radius: 15px;
 }
@@ -312,7 +311,6 @@ nav ul li:hover::before{
     padding: 0 10%;
     display: flex;
     flex-wrap: wrap;
-    /* align-items:center; */
     justify-content: space-between;
 }
 .contact-info{
@@ -410,5 +408,6 @@ footer p a{
         transform: rotate(360deg);
     }
 }
+/* preloader starts here  */
 
 
