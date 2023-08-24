@@ -182,6 +182,7 @@ nav ul li:hover::before{
 .tab-content .show-content{
     display: block !important;
 }
+/* about section Ends here  */
 
 /* Services Section Start  */
 #services{
