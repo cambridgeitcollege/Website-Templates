@@ -106,7 +106,6 @@ nav ul li:hover::before{
 .container{
     padding: 5% 15%;
     display: flex;
-    /* align-items:space-around; */
     justify-content: space-around;
     align-items: top;
     flex-wrap: wrap;
