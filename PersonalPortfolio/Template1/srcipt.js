@@ -23,8 +23,8 @@ window.addEventListener("load",function(){
 
 //Typing Effect in JS
 var typed = new Typed('#typed', {
-    strings: ["First sentence.", "Second sentence."],
-    typeSpeed: 30,
+    strings: ["UI/UX Designer", "Web Developer","Graphic Designer","Product Designer"],
+    typeSpeed: 80,
     backSpeed:50,
     loop:true
   });
