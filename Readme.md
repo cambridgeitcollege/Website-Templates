@@ -1,6 +1,6 @@
 # About Project
 
-Welcome to this PRoject! This repository contains a collection of website templates used for personal websites and other web-related templates.
+Welcome to this Project! This repository contains a collection of website templates used for personal websites and other web-related templates.
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ If you'd like to use one of the templates, simply navigate to the template's pag
 
 ## Contributing
 
-We welcome contributions! If you'd like to contribute to this project, please check out our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions! If you'd like to contribute to this project, please check out our [Contribution Guidelines](Contribution.md).
 
 ## Code of Conduct
 
