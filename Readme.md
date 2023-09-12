@@ -5,7 +5,7 @@ Welcome to this Project! This repository contains a collection of website templa
 ## Table of Contents
 
 - [About](#about)
-- [Templates](#templates)
+<!-- - [Templates](#templates) -->
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
