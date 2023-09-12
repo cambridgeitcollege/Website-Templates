@@ -20,3 +20,9 @@ document.querySelector("#close").addEventListener("click",function(){
 window.addEventListener("load",function(){
     document.querySelector(".preloader").style="display:none;";
 })
+
+//Typing Effect in JS
+var typed = new Typed('.element', {
+    strings: ["First sentence.", "Second sentence."],
+    typeSpeed: 30
+  });
