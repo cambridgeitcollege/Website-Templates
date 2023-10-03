@@ -1,5 +1,5 @@
 # Personal Portfolio Website
-  This website is designed for the personal portfolio of web developer focusing on UI/UX Designer. The Contact Form doesn't work. You can use php code to make it work.
+  This website is designed for the personal portfolio of web developer focusing on Web Developer Designer. The Contact Form is perfectly working. You need to createsuperuser and login to the admin dashboard for the contact us details.
 
   This is a simple website template that you can use as a starting point for your Personal Website. It provides a basic structure and layout for a typical website. Feel free to customize it to suit your needs.
 
