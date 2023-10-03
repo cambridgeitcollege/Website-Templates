@@ -28,7 +28,7 @@ Please Follow the steps to Run this in your local Machine.
 ```bash 
 git clone https://github.com/cambridgeitcollege/Website-Templates
 
-cd Website-Templates/PersonalPortfolio/Template2
+cd Website-Templates/PersonalPortfolio/Template3
 
 pip install -r requirements.txt
 
