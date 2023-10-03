@@ -4,7 +4,7 @@ from .models import *
 
 # Register your models here.
 class ContactUsDisplay(admin.ModelAdmin):
-    list_display = ('name', 'email', 'message')
+    list_display = ('id','name', 'email', 'message',"datetime")
 
 #registering the model
 admin.site.register(ContactForm, ContactUsDisplay)

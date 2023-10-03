@@ -416,7 +416,8 @@
 
             <div class="wrapper">
 
-              <form action="" class="contact-form">
+              <form action="/" class="contact-form" method="POST">
+                {% csrf_token %}
 
                 <input type="text" name="name" placeholder="Name" required class="contact-input">
 
@@ -581,7 +582,7 @@
     <div class="container">
 
       <p class="copyright">
-        &copy; 2022 <a href="#" class="copyright-link">codewithsadee</a>. All Rights Reseverd
+        &copy; 2022 <a href="#" class="copyright-link">CAMBRIDGE IT COLEELGE</a>. All Rights Reseverd
       </p>
 
       <ul class="footer-list">
