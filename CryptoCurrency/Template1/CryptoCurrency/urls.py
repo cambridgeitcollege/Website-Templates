@@ -23,7 +23,7 @@ urlpatterns = [
     # path('')
     path("",include('Home.urls')),
     path('index',include("Home.urls")),
-    path('services',include("Home.urls")),
+    path('service',include("Home.urls")),
     path('about',include("Home.urls")),
     path('whyus',include("Home.urls")),
     path('team',include("Home.urls")),

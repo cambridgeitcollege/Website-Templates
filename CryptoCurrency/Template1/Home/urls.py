@@ -23,7 +23,7 @@ urlpatterns = [
     # path('')
     path("",views.index,name="Index"),
     path("index",views.index,name="Index"),
-    path("services",views.services,name="Services"),
+    path("service",views.services,name="Services"),
     path("about",views.about,name="About"),
     path("whyus",views.whyus,name="WhyUs"),
     path("team",views.team,name="Team"),
