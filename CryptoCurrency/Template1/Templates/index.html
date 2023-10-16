@@ -1,11 +1,10 @@
 {% extends "base.html" %}
+{% load static %}
 {% block cssfile %}
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="{% static 'css/style.css' %}">
 {%endblock%}
 
 
 {% block main %}
-
-
 <h1>Hello World In Django </h1>
 {% endblock %}
