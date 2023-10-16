@@ -26,11 +26,11 @@ You can use this template for personal or commercial projects. Please make sure 
 
 ## Contributing
 
-If you'd like to contribute to this project, please see the [Contributing Guidelines](Contribution.md) for more information.
+If you'd like to contribute to this project, please see the [Contributing Guidelines](../../Contribution.md) for more information.
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](../../LICENSE) file for details.
 
 ---
 
