@@ -15,3 +15,6 @@ def whyus(request):
 
 def team(request):
     return render(request,"team.html")
+
+def base(request):
+    return render(request,'base.html')

@@ -26,5 +26,6 @@ urlpatterns = [
     path("services",views.services,name="Services"),
     path("about",views.about,name="About"),
     path("whyus",views.whyus,name="WhyUs"),
-    path("team",views.team,name="Team")
+    path("team",views.team,name="Team"),
+    path('base',views.base,name="base")
 ]
