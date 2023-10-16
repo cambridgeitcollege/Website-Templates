@@ -24,6 +24,32 @@
 
 You can use this template for personal or commercial projects. Please make sure to replace the placeholder content with your own and customize the design as needed.
 
+Please Follow the steps to Run this in your local Machine.
+```bash 
+git clone https://github.com/cambridgeitcollege/Website-Templates
+
+cd Website-Templates/CryptoCurrency/Template1
+
+pip install -r requirements.txt
+
+python manage.py makeimgrations     # python3 manage.py makemigrations - Linux Users 
+
+python manage.py migrate    # python3 manage.py migrate - Linux Users
+
+python manage.py runserver  #pythoon3 manage.py runserver - Linux Users
+
+```
+
+Please Follow the Steps to Run Create admin and access Admin Page.
+```bash
+python mange.py createsuperuser #python3 manage.py createsuperuser - Linux User
+#And Please Complete the Process.
+# Open Your Browser and Open localhost:8000/admin
+```
+
+Note: It will be Better if you create Virtual Environment for running in your local machine.
+
+
 ## Contributing
 
 If you'd like to contribute to this project, please see the [Contributing Guidelines](../../Contribution.md) for more information.
