@@ -27,4 +27,5 @@ urlpatterns = [
     path('about',include("Home.urls")),
     path('whyus',include("Home.urls")),
     path('team',include("Home.urls")),
+    path('base',include('Home.urls'))
 ]
