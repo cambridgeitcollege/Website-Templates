@@ -39,6 +39,14 @@ python manage.py migrate    # python3 manage.py migrate - Linux Users
 python manage.py runserver  #pythoon3 manage.py runserver - Linux Users
 
 ```
+
+Please Follow the Steps to Run Create admin and access Admin Page.
+```bash
+python mange.py createsuperuser #python3 manage.py createsuperuser - Linux User
+#And Please Complete the Process.
+# Open Your Browser and Open localhost:8000/admin
+```
+
 Note: It will be Better if you create Virtual Environment for running in your local machine.
 
 
