@@ -11,4 +11,7 @@ def services(request):
     return render(request,"services.html")
 
 def whyus(request):
-    return
+    return render(request,"why.html")
+
+def team(request):
+    return render(request,"team.html")
