@@ -21,5 +21,5 @@ from Home import urls
 urlpatterns = [
     path('admin/', admin.site.urls),
     # path('')
-    path("/",include('Home.urls')),
+    path("",include('Home.urls')),
 ]
