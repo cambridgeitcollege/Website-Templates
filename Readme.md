@@ -5,7 +5,6 @@ Welcome to this Project! This repository contains a collection of website templa
 ## Table of Contents
 
 - [About](#about)
-<!-- - [Templates](#templates) -->
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
@@ -31,11 +30,11 @@ If you'd like to use one of the templates, simply navigate to the template's pag
 
 ## Contributing
 
-We welcome contributions! If you'd like to contribute to this project, please check out our [Contribution Guidelines](Contribution.md).
+We welcome contributions! If you'd like to contribute to this project, please check out our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Code of Conduct
 
-Please review our [Code of Conduct](CodeOfConduct.md) before participating in this project.
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in this project.
 
 ## License
 
